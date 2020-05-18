@@ -1,1 +1,1 @@
-# SimleCurvedSwitch
+# SimpleCurvedSwitch
